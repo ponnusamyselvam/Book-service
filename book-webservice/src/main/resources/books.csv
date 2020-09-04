@@ -1,0 +1,13 @@
+book_isbn,book_name,subject_name,author_id,coauthor_id,publisher_id,published_date,price
+201710,IOT,Technology,106,103,501,2012-12-31,800
+871910,Block Chain,Technology,102,104,502,2016-02-24,1200
+201571,Game Development,development,105,102,503,2012-10-30,500
+201657,Robotics,Technology,106,105,501,2012-08-03,700
+201544,Data Science,Analytics,103,105,502,2010-02-16,650
+139702,Data Mining,Analytics,104,,503,2008-07-07,950
+321267,Data Analytics,Analytics,104,,501,2009-12-31,1000
+134769,Big Data Analytics,Analytics,101,106,502,2014-12-23,600
+135648,Java,Programming,102,106,503,2010-02-26,650
+965798,Python,Programming,103,,501,2008-07-27,350
+845258,Scala,Programming,101,105,502,2002-11-27,800
+123545,Deep learning,Analytics,105,101,502,2017-12-23,900
